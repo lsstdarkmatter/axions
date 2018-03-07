@@ -6,4 +6,4 @@ LSST probes of axion physics. These repo currently focuses on stellar probes of 
 * Ratio of horizontal branch to red giant branch stars
 * Neutron star cooling.
 
-See [lsstdarkmatter/dark-matter-paper#1] for more discussion.
+See [lsstdarkmatter/dark-matter-paper#1](https://github.com/lsstdarkmatter/dark-matter-paper/issues/1) for more discussion.
